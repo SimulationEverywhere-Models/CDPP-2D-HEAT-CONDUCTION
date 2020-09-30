@@ -1,0 +1,1 @@
+simu -m2DHeatConduction.ma -t00:04:00:000 -l2DHeatConduction.log
